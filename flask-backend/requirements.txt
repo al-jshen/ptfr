@@ -1,5 +1,6 @@
-Flask
+flask
 numpy
 torch
 torchvision
 pillow
+flask-cors
